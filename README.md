@@ -26,8 +26,9 @@ Under hyperparameter tuning we’ll be using Randomised Search CV which will do 
 b)	Building the web app (.py) file 
 We need to import Flask library for hosting the machine learning model attached with frontend in a web environment. For accepting inputs from user we use OneHotEncoding technique to convert string inputs into binary terms (0’s and 1’s).
 
-## Website Image - 
+## Website Images - 
 
 ![2020-12-27 (5)](https://github.com/SiddhantVerma09/flightfareforecastingweb/assets/63495865/b2d23643-7551-4f1f-9497-7ab25e2001af)
 
+![2020-12-27 (4)](https://github.com/SiddhantVerma09/flightfareforecastingweb/assets/63495865/467ac8ee-5d32-4736-a9da-a83fa1dcf532)
 
